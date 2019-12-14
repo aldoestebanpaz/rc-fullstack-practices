@@ -1,0 +1,15 @@
+{
+  "name": "backend-post-handling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index3.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
